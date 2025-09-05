@@ -12,3 +12,4 @@ Reactroot.render(div1);
 //we can write html and css code in js and jxs will convert it into react code
 //jxs is not part of react
 
+

@@ -54,5 +54,3 @@ npm install react-dom -->
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-
-npm install: lock json ko check karega jitna bhi modules usme hai un modules files ko download karke node modules me rakh dega
